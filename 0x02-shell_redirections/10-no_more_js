@@ -1,2 +1,2 @@
 #!/bin/bash
-rm *.js 
+rm file3 file5 file4 *.js *.: 
